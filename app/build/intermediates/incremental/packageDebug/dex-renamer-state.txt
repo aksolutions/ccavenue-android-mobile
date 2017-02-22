@@ -1,0 +1,7 @@
+#Wed Feb 22 13:21:20 IST 2017
+base.0=C\:\\Users\\Ashish\\Desktop\\ccavenue-mobile1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5dea3de4f36670640eca4f5a0563308c33ff1529
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Ashish\\Desktop\\ccavenue-mobile1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a8aa1bbd43e9678cfabbeec8c57a86429aa0f741\\classes.dex
+base.1=C\:\\Users\\Ashish\\Desktop\\ccavenue-mobile1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a8aa1bbd43e9678cfabbeec8c57a86429aa0f741
+file.0=C\:\\Users\\Ashish\\Desktop\\ccavenue-mobile1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5dea3de4f36670640eca4f5a0563308c33ff1529\\classes.dex
